@@ -1,0 +1,1 @@
+{"name": "Alice", "shares": 100, "price": 532.5}
